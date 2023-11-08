@@ -24,7 +24,7 @@ This is a simple BMI (Body Mass Index) calculator web application. It helps user
 
 ## Screenshots
 
-![Screenshot 1](screenshot.png)
+![Screenshot 1](image.png)
 
 ## License
 
